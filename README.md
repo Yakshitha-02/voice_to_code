@@ -25,12 +25,12 @@ This project aims to create a cross-platform mobile application that converts sp
 
 ## Core Features
 
-- 🎙️ **Voice Input**: Users dictate programming logic through speech.  
-- 📝 **Real-Time Speech-to-Text**: AI converts spoken words into written text.  
-- ⚙️ **AI Code Generation**: Translates logic into functional programming code.  
-- 🧠 **Multiple Functional Languages**: Support for Haskell, Lisp, Elixir, or functional JavaScript/Python.  
-- 📱 **User-Friendly Interface**: Simple UI for seamless interaction.  
-- 📤 **Code Export & Sharing**: Users can copy, save, or share the generated code.
+- **Voice Input**: Users dictate programming logic through speech.  
+- **Real-Time Speech-to-Text**: AI converts spoken words into written text.  
+- **AI Code Generation**: Translates logic into functional programming code.  
+- **Multiple Functional Languages**: Support for Haskell, Lisp, Elixir, or functional JavaScript/Python.  
+- **User-Friendly Interface**: Simple UI for seamless interaction.  
+- **Code Export & Sharing**: Users can copy, save, or share the generated code.
 
 ---
 
